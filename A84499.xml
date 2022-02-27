@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Earl of Pembrookes speech to Nol-Cromvvell, Lord Deputy of Ireland. With his royall entertainment of him at his mannor of Ramsbury in Wiltshire, on his journey to Ireland; on Thursday, July 12. 1649. Taken verbatim by Michael Oldisworth, and by him recommended to one of his Lordships tenants, to see it carefully printed and published.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84499</idno>
+            <idno type="STC">Wing E80</idno>
+            <idno type="STC">Thomason E566_9</idno>
+            <idno type="STC">ESTC R204639</idno>
+            <idno type="EEBO-CITATION">99864104</idno>
+            <idno type="PROQUEST">99864104</idno>
+            <idno type="VID">165287</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84499)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165287)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E566[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Earl of Pembrookes speech to Nol-Cromvvell, Lord Deputy of Ireland. With his royall entertainment of him at his mannor of Ramsbury in Wiltshire, on his journey to Ireland; on Thursday, July 12. 1649. Taken verbatim by Michael Oldisworth, and by him recommended to one of his Lordships tenants, to see it carefully printed and published.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the printer of the House of Lords,</publisher>
+                  <pubPlace>Nod-nol [i.e. London] :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire on Pembroke, Cromwell, and Oldisworth.</note>
+                  <note>Annotation on Thomason copy: "July 30th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pembroke, Philip Herbert, --  Earl of, 1584-1650 --  Humor --  Early works to 1800.</term>
+               <term>Oldisworth, Michael, 1591-1654? --  Humor --  Early works to 1800.</term>
+               <term>Cromwell, Oliver, 1599-1658 --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165287:1" rendition="simple:additions"/>
+            <p>The Earl of PEMBROOKES SPEECH TO NOL-CROMWELL, Lord Deputy of IRELAND.</p>
+            <p>With his Royall Entertainment of him at his Mannor of <hi>Ramsbury</hi> in <hi>Wiltſhire,</hi> on his Journey to <hi>Ireland;</hi> On <hi>Thurſday,</hi> July 12. 1649.</p>
+            <p>Taken Verbatim by <hi>Michael Oldiſworth,</hi> and by him Recommended to one of his <hi>Lordſhips Tenants,</hi> to ſee it carefully Printed and Publiſhed.</p>
+            <p>
+               <add>July 30<hi rend="sup">th</hi>
+               </add> NOD-NOL, Printed by the Printer of the Houſe of Lords, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:165287:2"/>
+            <pb n="3" facs="tcp:165287:2"/>
+            <head>The Earl of PEMBROOKES SPEECH TO NOL-CROMWELL, Lord Deputy of IRELAND.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>DAmme, I may ſay <hi>King</hi> well enough; for be-God I know no man fitter to be <hi>King</hi> then your ſelf: Hath not your Honor Conquered all that the Kings in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> have Conquered for many Generations? My Chaplain read me a Chapter, and ſaid, <hi>That all Generations ſhould call her bleſſed:</hi> but <hi>Sink me,</hi> I am ſure all the Generations in <hi>England</hi> are <hi>damn'd</hi> if they call not your Honor <hi>bleſſed;</hi> and I am bound to bleſſe you too for coming hither; and you have done a bleſſed <hi>work</hi> too, in removing that <hi>Tyrant King, that man of Sin;</hi> and you are a going on with another bleſſed <hi>work,</hi> and that is Reducing of <hi>Ireland;</hi> your Honor hath happily ſubdued
+<pb n="4" facs="tcp:165287:3"/> the <hi>Levellers;</hi> ſtrengthned and enriched your friends, and im<g ref="char:EOLhyphen"/>poveriſhed your Enemies; you have taken away the Houſe of <hi>Lords;</hi> Damme, I never affected the <hi>Lords Houſe,</hi> nor <hi>Gods Houſe</hi> neither; and for the <hi>Lords Prayer,</hi> I have done what I can to aboliſh it: becauſe I would not have the people ſo much as put in mind of <hi>Lords; Sink me,</hi> if I know any more Lords then my Lord <hi>Fairfax</hi> and your <hi>Self;</hi> and if the people will ſay the <hi>Lords Prayer,</hi> then let them pray for your <hi>Lordſhips,</hi> as it be<g ref="char:EOLhyphen"/>comes good Chriſtians: the Land is yours, you have wone it by the Sword; and then, you are not only Lords but <hi>Landlords,</hi> and all the people in <hi>England</hi> your Tenants, and ought to pray for you, and pay you Rent too; Damme, I am your Tenant, and though I am old and cannot fight for you, yet I am not ſo old, but I can pay you Rent: 'Tis true I am a <hi>member</hi> of <hi>Parlia<g ref="char:EOLhyphen"/>ment;</hi> and ſo (as yet) <hi>free</hi> from <hi>Taxes;</hi> yet I were an <hi>ill member</hi> if I would not force <hi>my Tenants</hi> to pay you Rent; Damme, I had forgot my ſelf, for they be <hi>your Tenants,</hi> and pay you as much, or more Rent, then they do me. 'Zbloud, would they had more heavier <hi>Taxes</hi> on them for me, becauſe they grumble: I am informed by my man <hi>Michael,</hi> that they curſe the <hi>Parlia<g ref="char:EOLhyphen"/>ment;</hi> which I hold to be <hi>Treaſon,</hi> if not <hi>high treaſon;</hi> for, if to ſay, <hi>our Government is tyrannical, be high treaſon;</hi> Curſing muſt needs be <hi>high treaſon;</hi> nay <hi>blaſphemy</hi> too: and if your Lordſhip ſhall give me power but to <hi>Hang and Draw<g ref="char:punc">▪</g>
+               </hi> Refuſe me if a <hi>Tray<g ref="char:EOLhyphen"/>tor</hi> ſhall live; Damme, the Rogues won't ſtick to ſay, <hi>That we are Traytors our ſelves,</hi> although we are the <hi>Keepers of their Liber<g ref="char:EOLhyphen"/>ties;</hi> and if we keep their <hi>Liberties,</hi> we ought to keep their <hi>Money</hi> too, their <hi>Law</hi> and <hi>Religion,</hi> nay, their very <hi>Wives.</hi> if<g ref="char:punc">▪</g> it pleaſe us: and if we ſuffer ſome to be <hi>kill'd</hi> to preſerve <hi>the reſt,</hi> be God, I think 'tis <hi>State policy:</hi> if we ſpend three parts of their <hi>means,</hi> to preſerve the <hi>fourth;</hi> I ſee no reaſon but the <hi>fourth</hi> ſhould be at our <hi>diſpoſing;</hi> ſo long as we are the <hi>Keepers;</hi> My Lord, I will ſpeak unto you in a <hi>Parable,</hi> I am (I thank your Honors) made chief Keeper of <hi>C<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ringdon</hi> Park, that was the late Kings; there have I <hi>Heards</hi> of <hi>Deer;</hi> My Lord, are not theſe Heards of Deer at my <hi>dispoſing?</hi> If I kill one <hi>heard,</hi> that <hi>the reſt</hi> may have the more paſture, who ought to contradict it? and if I, or my <hi>Keeper</hi> make their <hi>Skins pay</hi> for Paling or Fen<g ref="char:EOLhyphen"/>cing
+<pb n="5" facs="tcp:165287:3"/> in my Park; Damme, 'tis the part of a good <hi>Keeper,</hi> and ſuch good Keepers I hope are the Parliament, and every Mem<g ref="char:EOLhyphen"/>ber thereof; and if they be good Keepers, will they not <hi>keep</hi> their <hi>own?</hi> and if they can <hi>keep</hi> their <hi>own,</hi> nature teaches, that they may as well <hi>keep others:</hi> I keep a Pack of <hi>Doggs,</hi> and Damme, I think they have as <hi>deep mouths</hi> as any; but imagine another has a <hi>Dogge,</hi> has a <hi>deeper mouth</hi> then my whole <hi>kennell;</hi> ought I not (if my Neighbor or Tenant deny me this <hi>Dogge</hi>) to force him from him, to make compleat my <hi>Cry?</hi>
+            </p>
+            <p>
+               <hi>My Lord,</hi>
+               <lb/> You have ſo much Money and Men to go to <hi>Ireland;</hi> it may be a Million, and about ten thouſand men; if you want a Mil<g ref="char:EOLhyphen"/>lion more, and twenty thouſand men more, to make the Iriſh <hi>Cry;</hi> Damme, if they will not raiſe the Men, and find the Mo<g ref="char:EOLhyphen"/>ney, they may be made <hi>Cry</hi> themſelves: you may, and ought to take it where you can find it; Neceſſity muſt not obſerve a Law in theſe dayes; My Lord, if you are neceſſitated, you may command <hi>me</hi> to fight as old as I am; Damme, I were a Rogue if I ſhould deny yee; yet I think I hate fighting my ſelf as much as any man in <hi>England;</hi> yet though I hate it in my ſelf, my Lord I would not have you think that I hate it in your Honor; no, my Lord, I hope I have more wit then ſo; I honor <hi>Valour</hi> in whomſoever I find it: Had not your Honors <hi>V<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lour</hi> been tryed<g ref="char:punc">▪</g> at <hi>Marſton-Moor,</hi> we had been all Myr'd and Moor'd too be<g ref="char:EOLhyphen"/>fore this time; or had you not Rowted the <hi>Scots,</hi> we had not ſcap'd ſo <hi>Scot<g ref="char:punc">▪</g> free</hi> as we do, nor enjoy'd the good things of the Land: Damme, 'tis an unthankful Land, and a blind Land, for they underſtand not, they ſee not the <hi>bleſſings</hi> that you have won them; but I hope there is no Member of Parliament but un<g ref="char:EOLhyphen"/>derſtands, and is ſenſible enough of them: Damme, I am ſen<g ref="char:EOLhyphen"/>ſible, and if your Honor loves Hunting, you ſhall be ſenſible that in my old dayes I deſerve a Park as well as the City of <hi>London;</hi> I love a Cry of Doggs better then a pair of Organs: Miſtris <hi>May</hi> loves them too, and I love her as well: Sir, I am a Member for <hi>Bark-ſhire,</hi> and then (if I ſhould not love <hi>barking</hi> and <hi>bawling</hi> too, I ſhould n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t love my Country) my Lord, when
+<pb n="6" facs="tcp:165287:4"/> 
+               <hi>old Doggs</hi> bark, they give <hi>Counſel;</hi> but if they bite, they bite ſor<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; Damme, we muſt <hi>bark</hi> and <hi>bite</hi> too, and all little enough; for ought I can underſtand; we muſt learn to hunt men, as well as we do Hares, or Foxes either.</p>
+            <p>
+               <hi>My Lord,</hi>
+               <lb/> You are now a going a hunting of <hi>Rebels</hi> into <hi>Ireland;</hi> and therefore I have ſaid the more concerning <hi>hunting;</hi> I wiſh you good ſport, that you may catch your <hi>Game,</hi> I mean the <hi>Game-Royal;</hi> a good <hi>hound</hi> upon the Chaſe will not leave the hot ſcent to follow a Raſcal Deer; My Lord, you have been well <hi>fleſht;</hi> purſue the ROYAL-GAME, the reſt, any Curre will pull down.</p>
+            <p>
+               <hi>My Lord,</hi>
+               <lb/> I am an Old man, and can ill ride a Horſe; Damme, I had rather ride an Aſſe that will not throw me; then ride a Horſe to lay me in the Dirt: If I were a horſeman, and as yong as ever I was, it ſhould not be <hi>Ireland,</hi> nor <hi>Scotland neither,</hi> that ſhould keep me back; Refuſe-me if I was ever backward for the good of the State; I was, I confeſſe, Lord Chamberlain to the late King; I ſwore <hi>Allegiance</hi> to Him and His Heirs; Sink<g ref="char:EOLhyphen"/>me, I have been too much addicted to Swearing, but what of that? if I forſwear again what I have ſworn, I am the more ex<g ref="char:EOLhyphen"/>cuſeable; an Oath is binding but for the time, and you know there is a time for all this; a time to break Oathes, as well as keep them, if the State requires it: We muſt be Obedient; O<g ref="char:EOLhyphen"/>bedience is better then Sacrifice, and if I be not as Obedient as another, then I am a Rebel, and a Traytor, and deſerve as much to ſuffer as the late King, the Lord <hi>Capel,</hi> or any elſe.</p>
+            <p>
+               <hi>My Lord,</hi>
+               <lb/> You are welcome, and all theſe Gentlumen as welcome as your ſelf; you have honored me in giving me a vſiite, and I hope I ſhall be able to viſite the Houſe of <hi>Commons</hi> before Mi<g ref="char:EOLhyphen"/>chaelmas;
+<pb n="7" facs="tcp:165287:4"/> where I make no doubt, but I ſhall give conſent to the making ſuch Laws as ſhall make this Nation glorious; for if we do not afflict them; then they cannot be <hi>glorious;</hi> 'tis afflictions muſt wean them from the <hi>World;</hi> and if they be weaned from the World, then they may the better ſeek after heaven, where is all real Glory; thus we made the late King a glorious King; Damme, I think he had the better of it, if he had a Crown of Glory for his Earthly Crown; though we have his Lands and Goods to boot; we cannot live alwayes to en<g ref="char:EOLhyphen"/>joy them; 'tis true we have the profit of them for a time; but what can we profit by them in the end, when we come to ren<g ref="char:EOLhyphen"/>der an account? We are but the Peoples <hi>Stewards</hi> as well as He; and as we are <hi>Stewards,</hi> we are to be intruſted with their <hi>Goods</hi> and <hi>Lives;</hi> and if we make not uſe of them as we ſhould, pray who can call us to an account here? I know there is no <hi>Earthly pow<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> above us; but Confound-me, I am half of the judgement that there is a <hi>Heavenly power</hi> above us, and that is our King, our Prince, that ought to <hi>Rule</hi> us, and his <hi>Rule</hi> is in this World, and the Aire: miſtake me not my Lord, I do not mean the Prince of the <hi>Aire</hi> that rules in the Children <hi>of diſo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>dience,</hi> that the wicked Cavaliers ſerve<g ref="char:punc">▪</g> I mean the <hi>Spirit;</hi> we are led by the <hi>Spirit,</hi> have our <hi>rules</hi> from the <hi>Spirit</hi> (and not from Scriptures, that's Superſtition) and dare not but do what the <hi>Spirit</hi> moves us too; and if we do amiſſe, it is the <hi>Spirit</hi> that works it in us, and not we; and if the <hi>Spirit</hi> bid me kill my King, muſt I not do it? Damme if it were my Father or my Mother, or my dull Wiſe either, I ſhould ſpare them no more then the fire did my houſe, when it burnt it to the ground.</p>
+            <p>
+               <hi>My Lord,</hi>
+               <lb/> I perceive a <hi>Spirit</hi> that now hath a working in Nature, which <hi>Spirit</hi> doth perſonate me, and hath made many <hi>Speeches</hi> in my Name, which I utterly Renounce; Nay my Lord, your Ho<g ref="char:EOLhyphen"/>nors are not free from this vile Calumnious Spirit, even un<g ref="char:EOLhyphen"/>der your very <hi>Noſes;</hi> My Lord, I have been jeared into ſickneſs, and had dy'd if I had not been jear'd out of it again; they brought me ſo neer my Grave, that they made my <hi>Will;</hi> and I think I had dy'd<g ref="char:punc">▪</g> but that I was loth the wicked ſhould have their <hi>Will</hi> of me: Damme, I hope to live yet to make my <hi>Will</hi>
+               <pb n="8" facs="tcp:165287:5"/> my ſelf, and in it remember your Honor; if your Honor <hi>will</hi> do me the favour, as to ſend to the <hi>Parliament,</hi> to tell them what they put forth in my <hi>Name;</hi> 'Zbloud, I had better have no <hi>name,</hi> then no <hi>fame;</hi> and <hi>Iudge-me,</hi> I have as little as can be among the <hi>Common</hi> ſort. My <hi>Lord,</hi> I beſeech<g ref="char:punc">▪</g> you let this <hi>Spirit</hi> be con<g ref="char:EOLhyphen"/>jur'd down, or elſe we muſt <hi>down</hi> our ſelves, and if any thing other then <hi>good</hi> ſhould happen to us by reaſon of the <hi>ungodly a<g ref="char:EOLhyphen"/>broad,</hi> I fear a <hi>great many</hi> at <hi>home</hi> will take their parts; it is good to <hi>prevent</hi> in time, <hi>my Lord,</hi> to quench the flame before it get too <hi>high,</hi> or elſe it may happen to <hi>burn</hi> our fingers. <hi>My Lord,</hi> I hear <hi>Ormond</hi> is 30000 ſtrong, beſides what <hi>Inchiquin, Ards,</hi> and <hi>Monro</hi> is; beſides your old <hi>Enemies</hi> are come to aſſiſt them, at <hi>Kildare, Eyron, Dives, Langdale, Aſhton, Hopton,</hi> and the Devil and all: And if they get <hi>Ireland</hi> my Lord, we may ere long hang up <hi>our pipes,</hi> and <hi>our ſelves</hi> too; <hi>My Lord;</hi> the way I would wiſh you, is to <hi>treat</hi> with the Earl of <hi>Darby,</hi> about the <hi>rendring</hi> the <hi>Iſle of Man;</hi> you'l get a <hi>Crown</hi> too boot; if we <hi>muſt</hi> have a <hi>King,</hi> (as the people will never be quiet elſe) as good <hi>you</hi> as another; <hi>Damme,</hi> we muſt have a <hi>King;</hi> for ſo many <hi>men,</hi> ſo many <hi>minds; Lilburn</hi> will have one thing, another party another, a third another, and then we fall together by the <hi>eares;</hi> then comes the Prince and parts us; What will become of us then? No my Lord, win a <hi>Crown</hi> and wear it; 'tis but taking down the <hi>Excize,</hi> or making at the be<g ref="char:EOLhyphen"/>ginning of your <hi>reign</hi> ſome ſeeming<g ref="char:punc">▪</g> good Law, as <hi>Richard</hi> the <hi>3d</hi> did, and that will win the peoples affections to you.</p>
+            <p>My Lord, I am an ill <hi>Orator,</hi> and ſomething given to ſwearing, which I hope will not be much diſtaſteful unto you, conſidering I am an old man; and <hi>Damme,</hi> old men are ſubject to old <hi>infir<g ref="char:EOLhyphen"/>mities;</hi> if your Honor lives, you will be old your ſelf as I am; Swounds, I wiſh you long life; and could with a good Conſci<g ref="char:EOLhyphen"/>ence ſay, <hi>Vive le Roy;</hi> a <hi>Pox Confound-me</hi> if I could not; <hi>'zblood,</hi> I am ſomething ſhort winded ſince my <hi>ſickneſs;</hi> but <hi>Dam-me, Ram-me, Sink-me,</hi> if I mean not what I ſay; and ſo for this time I make an end; deſiring your Honor to ſit, and taſte of that <hi>Welcome</hi> your Humble Subject and Servant can make you.</p>
+            <closer>
+               <signed>Your Honors humble Servant, <hi>PHILIP,</hi> Earl of Pembrook and Montgomery.</signed>
+            </closer>
+            <postscript>
+               <p>Vera Copia.</p>
+               <closer>
+                  <dateline>Ramsbury, <date>July 12. 1649.</date>
+                  </dateline>
+               </closer>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
